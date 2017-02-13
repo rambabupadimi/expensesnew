@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "997812350916",
+    "firebase_url": "https://fir-testing-db7eb.firebaseio.com",
+    "project_id": "fir-testing-db7eb",
+    "storage_bucket": "fir-testing-db7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997812350916:android:3ba40d4640c3df4a",
+        "android_client_info": {
+          "package_name": "com.firebase.dailyexpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997812350916-28quuso54nsnc686h5djvc542t3pq61j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb56_rjJ8OyXlZvlIm96dnCoi-3dAEVfQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
